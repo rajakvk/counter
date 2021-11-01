@@ -27,3 +27,7 @@ Entry for Shoonya.social counter contest (https://www.frontend.social/challenge/
 ## Troubleshoot
 
 - If you receive CORS error, then use any static http server in local like [live-server](https://www.npmjs.com/package/live-server)
+
+## View application in video
+
+Please check the application running in [video](https://drive.google.com/file/d/1LHoHd2YQmUnHq7NnmILh-Xx9EAN_Eqne/view?usp=sharing)
