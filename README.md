@@ -19,7 +19,7 @@ Entry for Shoonya.social counter contest (https://www.frontend.social/challenge/
 - Counter text color change on negative values
 - Consistant look and feel
 - Hosted on github public repo
-- Hosted in netlify at 
+- Hosted in netlify at [https://shoonya-counter.netlify.app/](https://shoonya-counter.netlify.app/)
 - Gradient text
 - Gradient border
 - Link to source code at bottom of the page
